@@ -31,7 +31,7 @@ It's possible to see the state of the cart.
 
 
 
-#:skull: Tecnologies 
+:skull: Tecnologies 
 
 - [x] [React](https://pt-br.reactjs.org/) 
 - [x] [Redux](https://redux.js.org/)
