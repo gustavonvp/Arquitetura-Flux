@@ -31,11 +31,15 @@ It's possible to see the state of the cart.
 
 
 
-##:skull: Tecnologies 
+#:skull: Tecnologies 
 
-- [x] React
-
-
+- [x] [React](https://pt-br.reactjs.org/) 
+- [x] [Redux](https://redux.js.org/)
+- [x] [ReduxSaga](https://redux-saga.js.org/)
+- [x] [Reacttotron](https://github.com/infinitered/reactotron)
+- [x] [Styled Components](https://styled-components.com/)
+- [x] [Eslint](https://eslint.org/)
+- [x] [Prettier](https://prettier.io/)
 
 ## Learn More
 
